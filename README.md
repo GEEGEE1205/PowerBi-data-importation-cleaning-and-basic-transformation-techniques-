@@ -2,7 +2,7 @@
 
 **Overview**:
 
-This project demonstrates foundational data transformation techniques using Microsoft Power BI. As part of my Power BI training, I worked through real-world scenarios involving importing raw data, performing essential cleaning tasks, and transforming it into a structured format suitable for analysis and reporting.
+This project demonstrates foundational data transformation techniques using Microsoft Power BI. As part of my Power BI training, I worked through real-world scenarios involving ETL (Extraction of data,Transformation and Loading of data for modeling and Visualization suitable for analysis and reporting.
 
 ---
 
